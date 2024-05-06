@@ -1,0 +1,14 @@
+
+              *********SETUP KURULMADAN YAPILMASI GEREKENLER***********
+
+1)text.txt uzantılı dosyayı açınız.
+2)Data Source=DESKTOP-FGVIOT1;Initial Catalog=hastaneProje;Integrated Security=True
+DESKTOP-FGVIOT1 yazan kısmı silin ve bilgisayarınızda yüklü olan SQL server adınızı yazınız.
+3)Kaydettiğiniz text.txt dosyasını c klasörüne atınız(Bunu yapmazsanız,program çalışmaz)
+4)Başlangıc arama kısmında hizmetler yazın,çıkan uygulamayı açın.Burada SQL serverı seçip sağ tıklayıp, durduru tıkla-
+malıyız.Daha sonra SQL klasöründeki ,SQL veri tablolarını kopylayıp kendi bilgisayarınızda yüklü olan SQL in data klasörüne
+yapıştırınız.
+4)SON olarak bilgisayarda kurulu SQL server açılır.Databases sağ tıklanıp ATTACH yapılır,gelen ekranda add seçilip yapıştır
+dığımız SQL tablo ismnini bulup seçeceğiz ve okey dedikten sonra işlemlemlerimiz bitecektir.
+BU ADIMLARI YAPTIKTAN SONRA SETUP ile yükleme yapabilirsiniz
+(cnyusuf) 

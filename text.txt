@@ -1,0 +1,1 @@
+Data Source=DESKTOP-FGVIOT1;Initial Catalog=hastaneProje;Integrated Security=True
